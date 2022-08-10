@@ -3,7 +3,7 @@ package blockchain
 import (
 	"bytes"
 
-	"github.com/tensor-programming/golang-blockchain/wallet"
+	"github.com/daniel-888/golang-blockchain/wallet"
 )
 
 type TxOutput struct {
